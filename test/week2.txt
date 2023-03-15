@@ -1,0 +1,3 @@
+lesson 1
+pwd, ls, cd
+init, add, commit, status
