@@ -1,0 +1,10 @@
+lesson01 (local respository)
+pwd, ls, cd
+git init, add, commit, status
+checkout
+hash code
+
+lesson02 (remote repository)
+github
+echo, cat
+remote, push
